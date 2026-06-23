@@ -1,0 +1,8 @@
+# Python 服务依赖 - 银行报告生成服务
+# 可部署到 Render.com 免费平台
+
+python-docx>=1.1.0
+flask>=3.0.0
+flask-cors>=4.0.0
+pillow>=10.4.0
+gunicorn>=21.0.0
